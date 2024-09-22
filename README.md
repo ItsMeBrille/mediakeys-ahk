@@ -7,4 +7,4 @@ Alternatively, press `AltGr` instead of `CTRL` + `Alt`
 
 ## Installation
 1. Install [AutoHotKey](https://www.autohotkey.com/)
-1. Copy [mediakeys.ahk](mediakeys.ahk) to startup folder. Usally `C:\Users\herhe\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+1. Copy [mediakeys.ahk](mediakeys.ahk) to startup folder. Usally `C:\Users\_USERNAME_\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
